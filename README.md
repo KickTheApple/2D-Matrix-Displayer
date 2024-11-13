@@ -1,10 +1,10 @@
-2D Matrix Visualization Tool
-A lightweight project for visualizing 2D matrices stored in a JSON file. This tool reads a JSON file with matrix data, allowing users to drag and drop the file onto the screen for quick visualization of the shapes stored within.
+2D Matrix Visualization Tool\n
+A lightweight project for visualizing 2D matrices stored in a JSON file. This tool reads a JSON file with matrix data, allowing users to drag and drop the file onto the screen for quick visualization of the shapes stored within.\n
 
-Features
--Drag-and-drop file support: Simply drag a JSON file onto the screen to visualize its 2D matrix data.
--JSON Parsing: Automatically reads the JSON file contents and processes matrix data.
--Shape Rendering: Visualizes shapes and patterns based on the matrix information in the JSON.
+Features\n
+-Drag-and-drop file support: Simply drag a JSON file onto the screen to visualize its 2D matrix data.\n
+-JSON Parsing: Automatically reads the JSON file contents and processes matrix data.\n
+-Shape Rendering: Visualizes shapes and patterns based on the matrix information in the JSON.\n
 
 INSTALL:
 ``` git clone https://github.com/your-username/2D-Matrix-Displayer.git ```
